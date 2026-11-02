@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+requests
+beautifulsoup4
+nltk
+numpy
+rank-bm25
+sentence-transformers
